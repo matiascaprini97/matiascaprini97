@@ -1,4 +1,12 @@
-### Hi there 👋
+### Buenas! Mi nombre es Matias y estoy encantado de conocerte!
+
+Un poco sobre mi:
+
+Soy un activo desarrollador que desde hace tiempo, estudia y se capacita para desarrollar sus habilidades al máximo! Soy perseverante en la búsqueda laboral ya que me quiero dedicar profesionalmente a este rubro. 
+Trabajo bien en equipo, soy sociable y me adapto bien a cualquier proyecto , aunque esté ya empezado puedo entender lo que está hecho e integrarme perfectamente. Tengo una gran habilidad para resolver problemas ya sean los míos o de algún compañero.
+Soy positivo y siempre intento ayudar a mis compañeros y aprender de ellos y de las experiencias.
+
+Muchas gracias por leer, Saludos
 
 <!--
 **matiascaprini97/matiascaprini97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
