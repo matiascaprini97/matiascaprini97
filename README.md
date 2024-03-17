@@ -9,20 +9,20 @@ Soy positivo y siempre intento ayudar a mis compañeros y aprender de ellos y de
 Muchas gracias por leer, Saludos
 
 ## Tecnologías que utilizo:
--JavaScript
--React Native y React.js
--Redux y Redux thunk
--Node y Node.js
--Express
--Sequelize
--SQL
--HTML y CSS
--Python
--MongoDB
--MariaDB
--SQLite3
--Tkinter
--Django
+| JavaScript 
+| React Native y React.js 
+| Redux y Redux thunk 
+| Node y Node.js 
+| Express 
+| Sequelize 
+| SQL 
+| HTML y CSS 
+| Python 
+| MongoDB 
+| MariaDB 
+| SQLite3 
+| Tkinter 
+| Django 
 
 <!--
 **matiascaprini97/matiascaprini97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
