@@ -10,9 +10,10 @@ Muchas gracias por leer, Saludos
 
 ## Tecnologías que utilizo:
 | JavaScript 
-| React Native y React.js 
-| Redux y Redux thunk 
-| Node y Node.js 
+| AWS
+| React
+| Redux
+| Node.js 
 | Express 
 | Sequelize 
 | SQL 
